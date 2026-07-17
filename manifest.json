@@ -1,0 +1,16 @@
+{
+  "name": "Recomp — Fitness Tracker",
+  "short_name": "Recomp",
+  "description": "Workout and nutrition tracking without a paywall.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12141c",
+  "theme_color": "#12141c",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
